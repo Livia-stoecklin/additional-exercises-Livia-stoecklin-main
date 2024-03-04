@@ -1,0 +1,1 @@
+Schreiben Sie die Lösung zu dieser Übungsaufgabe in dieses Package. Diese Aufgabe hat keine Musterlösung. Orientieren Sie sich an den Aufgaben 1-4.
